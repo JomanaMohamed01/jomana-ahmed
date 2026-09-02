@@ -153,7 +153,7 @@ export default function MyWorks() {
       </ImageWrapper>
 
       <ImageWrapper>
-        <Title>Supermarket Website</Title>
+        <Title>Online Supermarket Website</Title>
         <ImageBillie title="Supermarket Project" src="/images/supermarket-project.png" />
         <IconsWrapper>
           <a
