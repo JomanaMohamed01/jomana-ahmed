@@ -151,6 +151,27 @@ export default function MyWorks() {
           </a>
         </IconsWrapper>
       </ImageWrapper>
+
+      <ImageWrapper>
+        <Title>Supermarket Website</Title>
+        <ImageBillie title="Supermarket Project" src="/images/supermarket-project.png" />
+        <IconsWrapper>
+          <a
+            target="_blank"
+            href="https://supermarket-project-blond.vercel.app/login"
+            rel="noreferrer"
+          >
+            <LinkIcon />
+          </a>
+          <a
+            target="_blank"
+            href="https://github.com/JomanaMohamed01/supermarket-project"
+            rel="noreferrer"
+          >
+            <GithubIcon />
+          </a>
+        </IconsWrapper>
+      </ImageWrapper>
     </Wrapper>
   )
 }
