@@ -5,7 +5,7 @@ import { Link } from "@styled-icons/boxicons-regular/Link"
 export default function MyWorks() {
   return (
     <Wrapper>
-      <ImageWrapper>
+      {/* <ImageWrapper>
         <Title>NextJS Netflix Website</Title>
         <ImageBillie title="NextJS Netflix Project" src="/images/netflix.png" />
         <IconsWrapper>
@@ -45,7 +45,7 @@ export default function MyWorks() {
             <GithubIcon />
           </a>
         </IconsWrapper>
-      </ImageWrapper>
+      </ImageWrapper> */}
 
       <ImageWrapper>
         <Title>Tripo Games Website</Title>
