@@ -262,10 +262,13 @@ export const ImageCrypto = styled.img`
 
 export const ImageBillie = styled.img`
   width: 250px;
+  height: 155px;
+  object-fit: cover;
   cursor: pointer;
 
   :hover {
     width: 300px;
+    height: 186px;
     transition: 0.5s;
   }
 
