@@ -172,6 +172,27 @@ export default function MyWorks() {
           </a>
         </IconsWrapper>
       </ImageWrapper>
+
+      <ImageWrapper>
+        <Title>Clinic Website</Title>
+        <ImageBillie title="Clinic Project" src="/images/clinic-project.png" />
+        <IconsWrapper>
+          <a
+            target="_blank"
+            href="https://clinic-project-supabase.vercel.app/auth"
+            rel="noreferrer"
+          >
+            <LinkIcon />
+          </a>
+          <a
+            target="_blank"
+            href="https://github.com/JomanaMohamed01/clinic-connect"
+            rel="noreferrer"
+          >
+            <GithubIcon />
+          </a>
+        </IconsWrapper>
+      </ImageWrapper>
     </Wrapper>
   )
 }
