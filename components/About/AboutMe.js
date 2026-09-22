@@ -12,7 +12,7 @@ export default function AboutMe() {
       </Subtitle>
       <Title>My Coding Skills</Title>
       <Subtitle>
-        React.JS | Next.JS | Styled Components | Material-UI | Ant-Design | HTML
+        React.JS | Next.JS | Styled Components | Tailwind CSS | Supabase | Material-UI | Ant-Design | HTML
         | CSS | JavaScript | Node.JS | Git | Github | Github Flow | VSCode |
         Vercel | Github Pages | JSON | JSX | Responsive Design.
       </Subtitle>
